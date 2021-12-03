@@ -6,7 +6,7 @@ Dhara and I have improvements planned for this project including:
 
 future Structural Equation Modeling (SEM) to examine relationships between factors, particularly theororized causal relationships
 
-future modeling of both visit counts and cost data utilizing mixed effects modeling with CBSA as the fixed effect
+future modeling of both visit counts and cost data utilizing mixed effects modeling with CBSA as the fixed effect (initial GLMER models are in the "New" folder)
 
 possible addition of SDOH data into the modeling to improve latent factor reliability
 
